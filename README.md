@@ -1,8 +1,8 @@
 # Pexels Image Search
 
-This a is a demo project developed for a job interview coding challenge that then got canceled (...)
+This is a demo project of a mobile app done using [React Native](https://reactnative.dev/docs/environment-setup).
 
-Search the Pexels API for images, like them and have them saved for future reference or usage. Also retrives some information of does images such as author and dimensions.
+Search the Pexels API for images, like them and have them saved for future reference or usage. Also retrives some information of the images such as author and dimensions.
 
 <img src='public/print0.png' width=150 /> <img src='public/print1.png' width=150 /> <img src='public/print3.png' width=150 /> <img src='public/print4.png' width=150 /> <img src='public/print5.png' width=150 /> <img src='public/print6.png' width=150 /> <img src='public/print7.png' width=150 /> <img src='public/print8.png' width=150 /> <img src='public/print2.png' width=150 />
 
@@ -22,12 +22,6 @@ Search the Pexels API for images, like them and have them saved for future refer
 These instructions will give you a copy of the project up and running on
 your local machine for development and testing purposes. See deployment
 for notes on deploying the project on a live system.
-
-### Prerequisites
-
-Requirements for the software and other tools to build, test and push
-
-- [React Native](https://reactnative.dev/docs/environment-setup)
 
 ### Installing
 
