@@ -58,13 +58,7 @@ yarn start
 - For IOS:
 
 ```sh
-yarn ios
-```
-
-- For Android
-
-```sh
-yarn android
+cd ios && pod install && cd .. && yarn ios
 ```
 
 ## Contributing
